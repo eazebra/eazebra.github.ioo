@@ -1,4 +1,4 @@
-# Pandas
+# **Pandas**
 ![](https://th.bing.com/th/id/OIP.Pixq9eppCBGpifpmTPXgFwHaE7?pid=ImgDet&rs=1)
 *SOURCE: VANWYCKEXPRESS/GETTY IMAGES*
 
@@ -14,7 +14,7 @@ Panda cubs are incredibly small and fragile at birth. They are one of the smalle
 ## Great Climbers
 Despite their large size and stocky build, pandas are skilled climbers. National Geographic photographs their physical adaptations, such as strong forelimbs, flexible wrists, and broad paws with sharp claws, enable them to navigate trees and climb with ease. They often seek refuge in trees to rest, play, or forage for bamboo. While they spend most of their time on the ground, their climbing abilities are impressive for an animal of their size.
 
-## See also: Panda Videos
+## See also: *Panda Videos*
 - [Panda 24/7 HD Live At Chengdu Panda Base](https://www.youtube.com/watch?v=MIA8AKVZ0Yk)
 - [Life of Rare Panda – National Geographic And Wildlife Animal Documentary
 ](https://www.youtube.com/watch?v=yYp_Shk7XcI&pp=ygUOcGFuZGEgcmVzZWFyY2g%3D)
